@@ -21,9 +21,90 @@ body {
   margin-bottom: 60px;
 }
 
+:root {
+    --bg: white;
+    --text: black;
+    --primary: #0d6efd;
+    --secondary: #6c757d;
+    --accent: #ffc107;
+}
+
+[data-theme="dark"] {
+    --bg: #121212;
+    --text: white;
+    --primary: #66b2ff;
+    --secondary: #aaaaaa;
+    --accent: #ffdd57;
+}
+
+/* Light theme (default) */
+body {
+    background-color: var(--bg) !important;
+    color: var(--text) !important;
+}
+
+/* Navbar (light theme) */
+.navbar {
+    background-color: var(--bg) !important;
+    color: var(--text) !important;
+}
+
+    .navbar .nav-link {
+        color: var(--text) !important;
+    }
+
+/* Light footer */
+footer {
+    background-color: var(--bg) !important;
+    color: var(--text) !important;
+}
+
+/*light navbar link hover*/
+.navbar .nav-link:hover {
+    color: var(--secondary) !important; /* Light mode blue */
+}
+
+/*light hamburger icon*/
+.navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba(0, 0, 0, 0.5)' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e") !important;
+}
+
+/* Dark theme */
+[data-theme="dark"] body {
+    background-color: var(--bg) !important;
+    color: var(--text);
+}
+
+/* Navbar (dark theme) */
+[data-theme="dark"] .navbar {
+    background-color: var(--bg) !important;
+    color: var(--text) !important;
+}
+
+    [data-theme="dark"] .navbar .nav-link {
+        color: var(--text) !important;
+    }
+
+/* Dark footer */
+[data-theme="dark"] footer,
+[data-theme="dark"] .footer {
+    background-color: var(--bg) !important;
+    color: var(--text) !important;
+}
+
+/*dark navbar link hover*/
+[data-theme="dark"] .navbar .nav-link:hover {
+    color: var(--secondary) !important; 
+}
+
+/*dark hamburger icon*/
+[data-theme="dark"] .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='white' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e") !important;
+}
+
 .form-floating > .form-control-plaintext::placeholder, .form-floating > .form-control::placeholder {
-  color: var(--bs-secondary-color);
-  text-align: end;
+    color: var(--bs-secondary-color);
+    text-align: end;
 }
 
 .form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {

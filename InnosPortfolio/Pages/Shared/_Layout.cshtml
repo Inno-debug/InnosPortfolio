@@ -8,13 +8,22 @@
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/InnosPortfolio.styles.css" asp-append-version="true" />
+    <script>
+        (() => {
+            const savedTheme = localStorage.getItem('theme');
+            const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+            const theme = savedTheme || (prefersDark ? 'dark' : 'light');
+            document.documentElement.setAttribute('data-theme', theme);
+        })();
+    </script>
+
 </head>
 <body>
     <header>
         <nav class="navbar navbar-expand-sm navbar-light bg-white border-bottom box-shadow mb-3">
             <div class="container-fluid position-relative">
                 <!-- Hamburger (left on mobile only) -->
-                <button class="navbar-toggler d-block d-sm-none" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                <button class="navbar-toggler d-block d-sm-none " type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
                         aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
@@ -43,7 +52,16 @@
                 </button>
             </div>
         </nav>
+        <script>
+            const themeToggle = document.getElementById('themeToggle');
 
+            themeToggle.addEventListener('click', () => {
+                const current = document.documentElement.getAttribute('data-theme');
+                const next = current === 'dark' ? 'light' : 'dark';
+                document.documentElement.setAttribute('data-theme', next);
+                localStorage.setItem('theme', next);
+            });
+        </script>
     </header>
     <div class="container">
         <main role="main" class="pb-3">

@@ -22,7 +22,6 @@ C:\Users\maste\Documents\personal\GitHub\InnosPortfolio\InnosPortfolio\obj\Debug
 C:\Users\maste\Documents\personal\GitHub\InnosPortfolio\InnosPortfolio\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\maste\Documents\personal\GitHub\InnosPortfolio\InnosPortfolio\obj\Debug\net9.0\scopedcss\bundle\InnosPortfolio.styles.css
 C:\Users\maste\Documents\personal\GitHub\InnosPortfolio\InnosPortfolio\obj\Debug\net9.0\scopedcss\projectbundle\InnosPortfolio.bundle.scp.css
-C:\Users\maste\Documents\personal\GitHub\InnosPortfolio\InnosPortfolio\obj\Debug\net9.0\compressed\ozl1shzm0w-b9sayid5wm.gz
 C:\Users\maste\Documents\personal\GitHub\InnosPortfolio\InnosPortfolio\obj\Debug\net9.0\compressed\0k7pmk59xr-61n19gt1b8.gz
 C:\Users\maste\Documents\personal\GitHub\InnosPortfolio\InnosPortfolio\obj\Debug\net9.0\compressed\m17cuxz9k6-xtxxf3hu2r.gz
 C:\Users\maste\Documents\personal\GitHub\InnosPortfolio\InnosPortfolio\obj\Debug\net9.0\compressed\6rtlmdsizs-bqjiyaj88i.gz
@@ -96,3 +95,4 @@ C:\Users\maste\Documents\personal\GitHub\InnosPortfolio\InnosPortfolio\obj\Debug
 C:\Users\maste\Documents\personal\GitHub\InnosPortfolio\InnosPortfolio\obj\Debug\net9.0\InnosPortfolio.pdb
 C:\Users\maste\Documents\personal\GitHub\InnosPortfolio\InnosPortfolio\obj\Debug\net9.0\InnosPortfolio.genruntimeconfig.cache
 C:\Users\maste\Documents\personal\GitHub\InnosPortfolio\InnosPortfolio\obj\Debug\net9.0\ref\InnosPortfolio.dll
+C:\Users\maste\Documents\personal\GitHub\InnosPortfolio\InnosPortfolio\obj\Debug\net9.0\compressed\ozl1shzm0w-rnv1p948yh.gz
