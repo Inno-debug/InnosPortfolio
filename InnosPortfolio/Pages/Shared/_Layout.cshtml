@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/InnosPortfolio.styles.css" asp-append-version="true" />
+    <!-- adding event listner to device lightmode default setting -->
     <script>
         (() => {
             const savedTheme = localStorage.getItem('theme');
@@ -23,7 +24,7 @@
         <nav class="navbar navbar-expand-sm navbar-light bg-white border-bottom box-shadow mb-3">
             <div class="container-fluid position-relative">
                 <!-- Hamburger (left on mobile only) -->
-                <button class="navbar-toggler d-block d-sm-none " type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                <button class="navbar-toggler d-block d-sm-none " id="mainNav" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
                         aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
@@ -32,26 +33,57 @@
                 <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
                     <ul class="navbar-nav d-flex flex-column flex-sm-row text-center gap-4">
                         <li class="nav-item">
-                            <a class="nav-link text-dark fs-4" asp-area="" asp-page="/Index">Home</a>
+                            <a class="nav-link fs-4" asp-area="" asp-page="/Index">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark fs-4" asp-area="" asp-page="/Privacy">Work</a>
+                            <a class="nav-link fs-4" asp-area="" asp-page="/Privacy">Work</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark fs-4" asp-area="" asp-page="/Privacy">Projects</a>
+                            <a class="nav-link fs-4" asp-area="" asp-page="/Privacy">Projects</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark fs-4" asp-area="" asp-page="/Privacy">Contact</a>
+                            <a class="nav-link fs-4" asp-area="" asp-page="/Privacy">Contact</a>
                         </li>
                     </ul>
                 </div>
 
                 <!-- Moon icon (always top right) -->
-                <button id="themeToggle" class="btn btn-outline-secondary position-absolute top-0 end-0 m-2" aria-label="Toggle dark mode">
+                <button id="themeToggle" class="btn btn-outline-secondary position-absolute end-0 hamburger-default" aria-label="Toggle dark mode">
                     🌙
                 </button>
             </div>
         </nav>
+        <!-- adding event listner to navbar toggle -->
+        <script>
+            const moonButton = document.getElementById('themeToggle');
+            const navCollapse = document.getElementById('mainNav');
+
+            function applyMoonPosition() {
+              // Always absolutely position it in the top-right corner
+              moonButton.style.position = 'absolute';
+              moonButton.style.right = '12px';
+
+              if (window.innerWidth >= 576) {
+                // Desktop
+                moonButton.style.top = '15%'; // very top
+              } else {
+                // Mobile
+                moonButton.style.top = '0'; // push down if needed
+              }
+            }
+
+            // Collapse events
+            navCollapse.addEventListener('shown.bs.collapse', applyMoonPosition);
+            navCollapse.addEventListener('hidden.bs.collapse', applyMoonPosition);
+
+            // Screen size changes
+            const mq = window.matchMedia("(min-width: 576px)");
+            mq.addEventListener("change", applyMoonPosition);
+
+            // Initial run
+            applyMoonPosition();
+        </script>
+        <!-- adding event listner to moon toggle -->
         <script>
             const themeToggle = document.getElementById('themeToggle');
 

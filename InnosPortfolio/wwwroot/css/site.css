@@ -1,4 +1,4 @@
-html {
+﻿html {
   font-size: 14px;
 }
 
@@ -35,6 +35,11 @@ body {
     --primary: #66b2ff;
     --secondary: #aaaaaa;
     --accent: #ffdd57;
+}
+
+
+.hamburger-default {
+    margin-right: 12px;
 }
 
 /* Light theme (default) */
