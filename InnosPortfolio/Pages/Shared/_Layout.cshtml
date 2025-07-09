@@ -11,25 +11,39 @@
 </head>
 <body>
     <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
-            <div class="container">
-                <a class="navbar-brand" asp-area="" asp-page="/Index">InnosPortfolio</a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
-                        aria-expanded="false" aria-label="Toggle navigation">
+        <nav class="navbar navbar-expand-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container-fluid position-relative">
+                <!-- Hamburger (left on mobile only) -->
+                <button class="navbar-toggler d-block d-sm-none" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                        aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
-                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-                    <ul class="navbar-nav flex-grow-1">
+
+                <!-- Centered nav links (desktop & mobile collapse) -->
+                <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
+                    <ul class="navbar-nav d-flex flex-column flex-sm-row text-center gap-4">
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Index">Home</a>
+                            <a class="nav-link text-dark fs-4" asp-area="" asp-page="/Index">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Privacy">Privacy</a>
+                            <a class="nav-link text-dark fs-4" asp-area="" asp-page="/Privacy">Work</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark fs-4" asp-area="" asp-page="/Privacy">Projects</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark fs-4" asp-area="" asp-page="/Privacy">Contact</a>
                         </li>
                     </ul>
                 </div>
+
+                <!-- Moon icon (always top right) -->
+                <button id="themeToggle" class="btn btn-outline-secondary position-absolute top-0 end-0 m-2" aria-label="Toggle dark mode">
+                    🌙
+                </button>
             </div>
         </nav>
+
     </header>
     <div class="container">
         <main role="main" class="pb-3">
