@@ -19,11 +19,8 @@ C:\Users\maste\Documents\personal\GitHub\InnosPortfolio\InnosPortfolio\obj\Debug
 C:\Users\maste\Documents\personal\GitHub\InnosPortfolio\InnosPortfolio\obj\Debug\net9.0\rjimswa.dswa.cache.json
 C:\Users\maste\Documents\personal\GitHub\InnosPortfolio\InnosPortfolio\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
 C:\Users\maste\Documents\personal\GitHub\InnosPortfolio\InnosPortfolio\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
-C:\Users\maste\Documents\personal\GitHub\InnosPortfolio\InnosPortfolio\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\maste\Documents\personal\GitHub\InnosPortfolio\InnosPortfolio\obj\Debug\net9.0\scopedcss\bundle\InnosPortfolio.styles.css
-C:\Users\maste\Documents\personal\GitHub\InnosPortfolio\InnosPortfolio\obj\Debug\net9.0\scopedcss\projectbundle\InnosPortfolio.bundle.scp.css
 C:\Users\maste\Documents\personal\GitHub\InnosPortfolio\InnosPortfolio\obj\Debug\net9.0\compressed\0k7pmk59xr-61n19gt1b8.gz
-C:\Users\maste\Documents\personal\GitHub\InnosPortfolio\InnosPortfolio\obj\Debug\net9.0\compressed\m17cuxz9k6-xtxxf3hu2r.gz
 C:\Users\maste\Documents\personal\GitHub\InnosPortfolio\InnosPortfolio\obj\Debug\net9.0\compressed\fik19y7tak-c2jlpeoesf.gz
 C:\Users\maste\Documents\personal\GitHub\InnosPortfolio\InnosPortfolio\obj\Debug\net9.0\compressed\gb5eivcu5c-aexeepp0ev.gz
 C:\Users\maste\Documents\personal\GitHub\InnosPortfolio\InnosPortfolio\obj\Debug\net9.0\compressed\1q1csz4dmd-ausgxo2sd3.gz
@@ -53,8 +50,6 @@ C:\Users\maste\Documents\personal\GitHub\InnosPortfolio\InnosPortfolio\obj\Debug
 C:\Users\maste\Documents\personal\GitHub\InnosPortfolio\InnosPortfolio\obj\Debug\net9.0\compressed\z5zmnh6tvm-ttgo8qnofa.gz
 C:\Users\maste\Documents\personal\GitHub\InnosPortfolio\InnosPortfolio\obj\Debug\net9.0\compressed\4t8z7vwkfb-87fc7y1x7t.gz
 C:\Users\maste\Documents\personal\GitHub\InnosPortfolio\InnosPortfolio\obj\Debug\net9.0\compressed\sz67pu720o-mlv21k5csn.gz
-C:\Users\maste\Documents\personal\GitHub\InnosPortfolio\InnosPortfolio\obj\Debug\net9.0\compressed\940zkgu7y1-amm3rqeodi.gz
-C:\Users\maste\Documents\personal\GitHub\InnosPortfolio\InnosPortfolio\obj\Debug\net9.0\compressed\k9k9e83oq4-amm3rqeodi.gz
 C:\Users\maste\Documents\personal\GitHub\InnosPortfolio\InnosPortfolio\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\maste\Documents\personal\GitHub\InnosPortfolio\InnosPortfolio\obj\Debug\net9.0\staticwebassets.build.json.cache
 C:\Users\maste\Documents\personal\GitHub\InnosPortfolio\InnosPortfolio\obj\Debug\net9.0\staticwebassets.development.json
@@ -96,3 +91,4 @@ C:\Users\maste\Documents\personal\GitHub\InnosPortfolio\InnosPortfolio\obj\Debug
 C:\Users\maste\Documents\personal\GitHub\InnosPortfolio\InnosPortfolio\obj\Debug\net9.0\compressed\ptihjoqgkk-jjsuc0puko.gz
 C:\Users\maste\Documents\personal\GitHub\InnosPortfolio\InnosPortfolio\obj\Debug\net9.0\compressed\haf8p4hq4y-9vr69e8ynj.gz
 C:\Users\maste\Documents\personal\GitHub\InnosPortfolio\InnosPortfolio\obj\Debug\net9.0\compressed\ozl1shzm0w-940036xxj8.gz
+C:\Users\maste\Documents\personal\GitHub\InnosPortfolio\InnosPortfolio\obj\Debug\net9.0\compressed\m17cuxz9k6-0s9c1jdchi.gz
