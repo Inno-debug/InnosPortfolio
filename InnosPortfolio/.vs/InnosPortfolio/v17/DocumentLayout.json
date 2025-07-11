@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\maste\\Documents\\personal\\GitHub\\InnosPortfolio\\InnosPortfolio\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{818A619A-1E7F-496F-90DE-5AF6ED65E465}|InnosPortfolio.csproj|c:\\users\\maste\\documents\\personal\\github\\innosportfolio\\innosportfolio\\pages\\indexsections\\title.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{818A619A-1E7F-496F-90DE-5AF6ED65E465}|InnosPortfolio.csproj|solutionrelative:pages\\indexsections\\title.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{818A619A-1E7F-496F-90DE-5AF6ED65E465}|InnosPortfolio.csproj|c:\\users\\maste\\documents\\personal\\github\\innosportfolio\\innosportfolio\\pages\\indexsections\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{818A619A-1E7F-496F-90DE-5AF6ED65E465}|InnosPortfolio.csproj|solutionrelative:pages\\indexsections\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -43,19 +47,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Title.cshtml",
+              "DocumentMoniker": "C:\\Users\\maste\\Documents\\personal\\GitHub\\InnosPortfolio\\InnosPortfolio\\Pages\\IndexSections\\Title.cshtml",
+              "RelativeDocumentMoniker": "Pages\\IndexSections\\Title.cshtml",
+              "ToolTip": "C:\\Users\\maste\\Documents\\personal\\GitHub\\InnosPortfolio\\InnosPortfolio\\Pages\\IndexSections\\Title.cshtml",
+              "RelativeToolTip": "Pages\\IndexSections\\Title.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-11T19:30:58.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Contact.cshtml",
               "DocumentMoniker": "C:\\Users\\maste\\Documents\\personal\\GitHub\\InnosPortfolio\\InnosPortfolio\\Pages\\IndexSections\\Contact.cshtml",
               "RelativeDocumentMoniker": "Pages\\IndexSections\\Contact.cshtml",
               "ToolTip": "C:\\Users\\maste\\Documents\\personal\\GitHub\\InnosPortfolio\\InnosPortfolio\\Pages\\IndexSections\\Contact.cshtml",
               "RelativeToolTip": "Pages\\IndexSections\\Contact.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-07-11T18:26:10.573Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Projects.cshtml",
               "DocumentMoniker": "C:\\Users\\maste\\Documents\\personal\\GitHub\\InnosPortfolio\\InnosPortfolio\\Pages\\IndexSections\\Projects.cshtml",
               "RelativeDocumentMoniker": "Pages\\IndexSections\\Projects.cshtml",
@@ -63,12 +80,11 @@
               "RelativeToolTip": "Pages\\IndexSections\\Projects.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-11T18:14:00.248Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-11T18:14:00.248Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "site.js",
               "DocumentMoniker": "C:\\Users\\maste\\Documents\\personal\\GitHub\\InnosPortfolio\\InnosPortfolio\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
@@ -76,12 +92,11 @@
               "RelativeToolTip": "wwwroot\\js\\site.js",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAEAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-07-10T13:21:16.034Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-10T13:21:16.034Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\maste\\Documents\\personal\\GitHub\\InnosPortfolio\\InnosPortfolio\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "Pages\\Index.cshtml",
@@ -93,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "_LayoutAssets.cshtml",
               "DocumentMoniker": "C:\\Users\\maste\\Documents\\personal\\GitHub\\InnosPortfolio\\InnosPortfolio\\Pages\\Shared\\_LayoutAssets.cshtml",
               "RelativeDocumentMoniker": "Pages\\Shared\\_LayoutAssets.cshtml",
@@ -105,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\maste\\Documents\\personal\\GitHub\\InnosPortfolio\\InnosPortfolio\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
@@ -117,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\maste\\Documents\\personal\\GitHub\\InnosPortfolio\\InnosPortfolio\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
@@ -125,8 +140,7 @@
               "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-10T15:54:09.168Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-10T15:54:09.168Z"
             }
           ]
         }
