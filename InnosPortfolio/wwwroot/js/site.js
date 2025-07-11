@@ -49,16 +49,23 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Switch between work and education
     if (eduBtn) {
+        eduBtn.addEventListener('click', () => {
             eduSection.classList.remove('d-none');
-        workSection.classList.add('d-none');
-        eduBtn.classList.add('active');
-        workBtn.classList.remove('active');
-            } else {
+            workSection.classList.add('d-none');
+            eduBtn.classList.add('active');
+            workBtn.classList.remove('active');
+        });
+
+        workBtn.addEventListener('click', () => {
             workSection.classList.remove('d-none');
-        eduSection.classList.add('d-none');
-        workBtn.classList.add('active');
-        eduBtn.classList.remove('active');
-            }
+            eduSection.classList.add('d-none');
+            workBtn.classList.add('active');
+            eduBtn.classList.remove('active');
+        });
+    }
+            
+           
+            
         
    
 });
