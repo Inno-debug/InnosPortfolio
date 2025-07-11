@@ -6,4 +6,13 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Include="wwwroot\logos\PU-H-Full-Rev-RGB.png" />
+    <None Include="wwwroot\logos\PU-H-Full-RGB.png" />
+    <None Include="wwwroot\logos\PU-V-Full-Rev-RGB.png" />
+    <None Include="wwwroot\logos\PU-V-Full-RGB.png" />
+    <None Include="wwwroot\logos\Subway-Choicemark.png" />
+    <None Include="wwwroot\logos\Subway-Hi-Res-Logo.png.png" />
+  </ItemGroup>
+
 </Project>

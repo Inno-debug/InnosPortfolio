@@ -61,6 +61,17 @@ wwwroot\lib\jquery\dist\jquery.slim.js
 wwwroot\lib\jquery\dist\jquery.slim.min.js
 wwwroot\lib\jquery\dist\jquery.slim.min.map
 wwwroot\lib\jquery\LICENSE.txt
+wwwroot\logos\PU-H-Full-Rev-RGB.png
+wwwroot\logos\PU-H-Full-RGB.png
+wwwroot\logos\PU-V-Full-RGB.png
+wwwroot\logos\Subway-Hi-Res-Logo.png.png
+wwwroot\logos\westernlong.png
+wwwroot\logos\PU-V-Full-Rev-RGB.png
+wwwroot\logos\PU-V-Full-Rev-RGB.png~
+wwwroot\logos\Subway-Choicemark.png
+wwwroot\logos\Subway-Choicemark.png~
+wwwroot\logos\westernshort.png
+wwwroot\logos\westernshort.png~
 C:\Users\maste\Documents\personal\GitHub\InnosPortfolio\InnosPortfolio\wwwroot\css\site.css
 C:\Users\maste\Documents\personal\GitHub\InnosPortfolio\InnosPortfolio\wwwroot\favicon.ico
 C:\Users\maste\Documents\personal\GitHub\InnosPortfolio\InnosPortfolio\wwwroot\js\site.js
