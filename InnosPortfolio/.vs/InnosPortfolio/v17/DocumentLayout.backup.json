@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\maste\\Documents\\personal\\GitHub\\InnosPortfolio\\InnosPortfolio\\",
+  "WorkspaceRootPath": "C:\\Users\\maste\\Documents\\Personal\\InnosPortfolio\\InnosPortfolio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{818A619A-1E7F-496F-90DE-5AF6ED65E465}|InnosPortfolio.csproj|c:\\users\\maste\\documents\\personal\\github\\innosportfolio\\innosportfolio\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{818A619A-1E7F-496F-90DE-5AF6ED65E465}|InnosPortfolio.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{818A619A-1E7F-496F-90DE-5AF6ED65E465}|InnosPortfolio.csproj|c:\\users\\maste\\documents\\personal\\github\\innosportfolio\\innosportfolio\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{818A619A-1E7F-496F-90DE-5AF6ED65E465}|InnosPortfolio.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{818A619A-1E7F-496F-90DE-5AF6ED65E465}|InnosPortfolio.csproj|c:\\users\\maste\\documents\\personal\\github\\innosportfolio\\innosportfolio\\pages\\shared\\_layoutassets.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{818A619A-1E7F-496F-90DE-5AF6ED65E465}|InnosPortfolio.csproj|solutionrelative:pages\\shared\\_layoutassets.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{818A619A-1E7F-496F-90DE-5AF6ED65E465}|InnosPortfolio.csproj|c:\\users\\maste\\documents\\personal\\github\\innosportfolio\\innosportfolio\\pages\\indexsections\\work.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{818A619A-1E7F-496F-90DE-5AF6ED65E465}|InnosPortfolio.csproj|c:\\users\\maste\\documents\\personal\\innosportfolio\\innosportfolio\\pages\\indexsections\\work.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{818A619A-1E7F-496F-90DE-5AF6ED65E465}|InnosPortfolio.csproj|solutionrelative:pages\\indexsections\\work.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{818A619A-1E7F-496F-90DE-5AF6ED65E465}|InnosPortfolio.csproj|c:\\users\\maste\\documents\\personal\\github\\innosportfolio\\innosportfolio\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{818A619A-1E7F-496F-90DE-5AF6ED65E465}|InnosPortfolio.csproj|c:\\users\\maste\\documents\\personal\\innosportfolio\\innosportfolio\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{818A619A-1E7F-496F-90DE-5AF6ED65E465}|InnosPortfolio.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818A619A-1E7F-496F-90DE-5AF6ED65E465}|InnosPortfolio.csproj|c:\\users\\maste\\documents\\personal\\innosportfolio\\innosportfolio\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{818A619A-1E7F-496F-90DE-5AF6ED65E465}|InnosPortfolio.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818A619A-1E7F-496F-90DE-5AF6ED65E465}|InnosPortfolio.csproj|c:\\users\\maste\\documents\\personal\\innosportfolio\\innosportfolio\\pages\\shared\\_layoutassets.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{818A619A-1E7F-496F-90DE-5AF6ED65E465}|InnosPortfolio.csproj|solutionrelative:pages\\shared\\_layoutassets.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818A619A-1E7F-496F-90DE-5AF6ED65E465}|InnosPortfolio.csproj|c:\\users\\maste\\documents\\personal\\innosportfolio\\innosportfolio\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{818A619A-1E7F-496F-90DE-5AF6ED65E465}|InnosPortfolio.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{818A619A-1E7F-496F-90DE-5AF6ED65E465}|InnosPortfolio.csproj|c:\\users\\maste\\documents\\personal\\github\\innosportfolio\\innosportfolio\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{818A619A-1E7F-496F-90DE-5AF6ED65E465}|InnosPortfolio.csproj|c:\\users\\maste\\documents\\personal\\innosportfolio\\innosportfolio\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{818A619A-1E7F-496F-90DE-5AF6ED65E465}|InnosPortfolio.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -34,15 +34,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Work.cshtml",
-              "DocumentMoniker": "C:\\Users\\maste\\Documents\\personal\\GitHub\\InnosPortfolio\\InnosPortfolio\\Pages\\IndexSections\\Work.cshtml",
+              "DocumentMoniker": "C:\\Users\\maste\\Documents\\Personal\\InnosPortfolio\\InnosPortfolio\\Pages\\IndexSections\\Work.cshtml",
               "RelativeDocumentMoniker": "Pages\\IndexSections\\Work.cshtml",
-              "ToolTip": "C:\\Users\\maste\\Documents\\personal\\GitHub\\InnosPortfolio\\InnosPortfolio\\Pages\\IndexSections\\Work.cshtml",
+              "ToolTip": "C:\\Users\\maste\\Documents\\Personal\\InnosPortfolio\\InnosPortfolio\\Pages\\IndexSections\\Work.cshtml",
               "RelativeToolTip": "Pages\\IndexSections\\Work.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -51,68 +51,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\maste\\Documents\\personal\\GitHub\\InnosPortfolio\\InnosPortfolio\\wwwroot\\css\\site.css",
+              "DocumentMoniker": "C:\\Users\\maste\\Documents\\Personal\\InnosPortfolio\\InnosPortfolio\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\maste\\Documents\\personal\\GitHub\\InnosPortfolio\\InnosPortfolio\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\maste\\Documents\\Personal\\InnosPortfolio\\InnosPortfolio\\wwwroot\\css\\site.css",
               "RelativeToolTip": "wwwroot\\css\\site.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-07-09T18:21:50.972Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T18:21:50.972Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "site.js",
-              "DocumentMoniker": "C:\\Users\\maste\\Documents\\personal\\GitHub\\InnosPortfolio\\InnosPortfolio\\wwwroot\\js\\site.js",
+              "DocumentMoniker": "C:\\Users\\maste\\Documents\\Personal\\InnosPortfolio\\InnosPortfolio\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
-              "ToolTip": "C:\\Users\\maste\\Documents\\personal\\GitHub\\InnosPortfolio\\InnosPortfolio\\wwwroot\\js\\site.js*",
-              "RelativeToolTip": "wwwroot\\js\\site.js*",
-              "ViewState": "AgIAACYAAAAAAAAAAAAUwDIAAAAOAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\maste\\Documents\\Personal\\InnosPortfolio\\InnosPortfolio\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AgIAABcAAAAAAAAAAAAUwDIAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-07-10T13:21:16.034Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-10T13:21:16.034Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "_LayoutAssets.cshtml",
-              "DocumentMoniker": "C:\\Users\\maste\\Documents\\personal\\GitHub\\InnosPortfolio\\InnosPortfolio\\Pages\\Shared\\_LayoutAssets.cshtml",
+              "DocumentMoniker": "C:\\Users\\maste\\Documents\\Personal\\InnosPortfolio\\InnosPortfolio\\Pages\\Shared\\_LayoutAssets.cshtml",
               "RelativeDocumentMoniker": "Pages\\Shared\\_LayoutAssets.cshtml",
-              "ToolTip": "C:\\Users\\maste\\Documents\\personal\\GitHub\\InnosPortfolio\\InnosPortfolio\\Pages\\Shared\\_LayoutAssets.cshtml",
+              "ToolTip": "C:\\Users\\maste\\Documents\\Personal\\InnosPortfolio\\InnosPortfolio\\Pages\\Shared\\_LayoutAssets.cshtml",
               "RelativeToolTip": "Pages\\Shared\\_LayoutAssets.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-10T15:28:54.06Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-10T15:28:54.06Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\maste\\Documents\\personal\\GitHub\\InnosPortfolio\\InnosPortfolio\\Pages\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\maste\\Documents\\Personal\\InnosPortfolio\\InnosPortfolio\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\maste\\Documents\\personal\\GitHub\\InnosPortfolio\\InnosPortfolio\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\maste\\Documents\\Personal\\InnosPortfolio\\InnosPortfolio\\Pages\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-10T15:54:09.168Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-10T15:54:09.168Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\maste\\Documents\\personal\\GitHub\\InnosPortfolio\\InnosPortfolio\\Pages\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\maste\\Documents\\Personal\\InnosPortfolio\\InnosPortfolio\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "Pages\\Index.cshtml",
-              "ToolTip": "C:\\Users\\maste\\Documents\\personal\\GitHub\\InnosPortfolio\\InnosPortfolio\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\maste\\Documents\\Personal\\InnosPortfolio\\InnosPortfolio\\Pages\\Index.cshtml",
               "RelativeToolTip": "Pages\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-10T15:24:42.541Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-10T15:24:42.541Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
