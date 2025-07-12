@@ -7,8 +7,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Include="wwwroot\logos\PU-V-Full-Rev-RGB.png" />
-    <None Include="wwwroot\logos\Subway-Choicemark.png" />
+    <None Include="wwwroot\projects\everglow.jpg" />
+    <None Include="wwwroot\projects\portfoliov1.png" />
   </ItemGroup>
 
 </Project>

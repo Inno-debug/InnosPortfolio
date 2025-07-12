@@ -91,6 +91,7 @@ C:\Users\maste\Documents\personal\GitHub\InnosPortfolio\InnosPortfolio\obj\Debug
 C:\Users\maste\Documents\personal\GitHub\InnosPortfolio\InnosPortfolio\obj\Debug\net9.0\compressed\ptihjoqgkk-jjsuc0puko.gz
 C:\Users\maste\Documents\personal\GitHub\InnosPortfolio\InnosPortfolio\obj\Debug\net9.0\compressed\haf8p4hq4y-9vr69e8ynj.gz
 C:\Users\maste\Documents\personal\GitHub\InnosPortfolio\InnosPortfolio\obj\Debug\net9.0\compressed\ozl1shzm0w-940036xxj8.gz
+C:\Users\maste\Documents\personal\GitHub\InnosPortfolio\InnosPortfolio\obj\Debug\net9.0\compressed\m17cuxz9k6-jjwonp2f6i.gz
 C:\Users\maste\Documents\Personal\InnosPortfolio\InnosPortfolio\bin\Debug\net9.0\appsettings.Development.json
 C:\Users\maste\Documents\Personal\InnosPortfolio\InnosPortfolio\bin\Debug\net9.0\appsettings.json
 C:\Users\maste\Documents\Personal\InnosPortfolio\InnosPortfolio\bin\Debug\net9.0\InnosPortfolio.staticwebassets.runtime.json
@@ -113,8 +114,7 @@ C:\Users\maste\Documents\Personal\InnosPortfolio\InnosPortfolio\obj\Debug\net9.0
 C:\Users\maste\Documents\Personal\InnosPortfolio\InnosPortfolio\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
 C:\Users\maste\Documents\Personal\InnosPortfolio\InnosPortfolio\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
 C:\Users\maste\Documents\Personal\InnosPortfolio\InnosPortfolio\obj\Debug\net9.0\scopedcss\bundle\InnosPortfolio.styles.css
-C:\Users\maste\Documents\Personal\InnosPortfolio\InnosPortfolio\obj\Debug\net9.0\compressed\ozl1shzm0w-940036xxj8.gz
-C:\Users\maste\Documents\Personal\InnosPortfolio\InnosPortfolio\obj\Debug\net9.0\compressed\0k7pmk59xr-61n19gt1b8.gz
+C:\Users\maste\Documents\Personal\InnosPortfolio\InnosPortfolio\obj\Debug\net9.0\compressed\m17cuxz9k6-jjwonp2f6i.gz
 C:\Users\maste\Documents\Personal\InnosPortfolio\InnosPortfolio\obj\Debug\net9.0\compressed\6rtlmdsizs-t1cqhe9u97.gz
 C:\Users\maste\Documents\Personal\InnosPortfolio\InnosPortfolio\obj\Debug\net9.0\compressed\fik19y7tak-c2jlpeoesf.gz
 C:\Users\maste\Documents\Personal\InnosPortfolio\InnosPortfolio\obj\Debug\net9.0\compressed\7sdh1dqd5e-sejl45xvog.gz
@@ -184,5 +184,4 @@ C:\Users\maste\Documents\Personal\InnosPortfolio\InnosPortfolio\obj\Debug\net9.0
 C:\Users\maste\Documents\Personal\InnosPortfolio\InnosPortfolio\obj\Debug\net9.0\InnosPortfolio.genruntimeconfig.cache
 C:\Users\maste\Documents\Personal\InnosPortfolio\InnosPortfolio\obj\Debug\net9.0\ref\InnosPortfolio.dll
 C:\Users\maste\Documents\Personal\InnosPortfolio\InnosPortfolio\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
-C:\Users\maste\Documents\personal\GitHub\InnosPortfolio\InnosPortfolio\obj\Debug\net9.0\compressed\m17cuxz9k6-jjwonp2f6i.gz
-C:\Users\maste\Documents\Personal\InnosPortfolio\InnosPortfolio\obj\Debug\net9.0\compressed\m17cuxz9k6-jjwonp2f6i.gz
+C:\Users\maste\Documents\Personal\InnosPortfolio\InnosPortfolio\obj\Debug\net9.0\compressed\ozl1shzm0w-9yvim4pfn3.gz

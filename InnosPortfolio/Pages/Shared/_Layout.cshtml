@@ -4,6 +4,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>@ViewData["Title"] - InnosPortfolio</title>
+    <link rel="icon" type="image/x-icon" href="~/logos/fav-icon.png" />
     <script type="importmap"></script>
     @await Html.PartialAsync("_LayoutAssets")  <!-- injects all your <link> and <script> tags -->
     @await RenderSectionAsync("Scripts", required: false)
@@ -15,7 +16,7 @@
         <nav class="navbar navbar-expand-sm navbar-light bg-white border-bottom box-shadow mb-3">
             <div class="container-fluid position-relative">
                 <!-- Hamburger (left on mobile only) -->
-                <button class="navbar-toggler d-block d-sm-none " id="mainNav" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                <button class="navbar-toggler btn-outline-secondary d-block d-sm-none " id="mainNav" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
                         aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
