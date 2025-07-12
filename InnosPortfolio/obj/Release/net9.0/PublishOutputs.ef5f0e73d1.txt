@@ -1,0 +1,7 @@
+C:\Users\maste\Documents\Personal\InnosPortfolio\InnosPortfolio\out\InnosPortfolio.exe
+C:\Users\maste\Documents\Personal\InnosPortfolio\InnosPortfolio\out\appsettings.Development.json
+C:\Users\maste\Documents\Personal\InnosPortfolio\InnosPortfolio\out\appsettings.json
+C:\Users\maste\Documents\Personal\InnosPortfolio\InnosPortfolio\out\InnosPortfolio.dll
+C:\Users\maste\Documents\Personal\InnosPortfolio\InnosPortfolio\out\InnosPortfolio.deps.json
+C:\Users\maste\Documents\Personal\InnosPortfolio\InnosPortfolio\out\InnosPortfolio.runtimeconfig.json
+C:\Users\maste\Documents\Personal\InnosPortfolio\InnosPortfolio\out\InnosPortfolio.pdb
