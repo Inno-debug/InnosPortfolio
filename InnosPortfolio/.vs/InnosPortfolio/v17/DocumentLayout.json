@@ -68,7 +68,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\maste\\Documents\\personal\\GitHub\\InnosPortfolio\\InnosPortfolio\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-14T13:38:26.01Z",
               "EditorCaption": ""
@@ -76,7 +76,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "InnosPortfolio",
+              "Title": "InnosPortfolio.csproj",
               "DocumentMoniker": "C:\\Users\\maste\\Documents\\personal\\GitHub\\InnosPortfolio\\InnosPortfolio\\InnosPortfolio.csproj",
               "RelativeDocumentMoniker": "InnosPortfolio.csproj",
               "ToolTip": "C:\\Users\\maste\\Documents\\personal\\GitHub\\InnosPortfolio\\InnosPortfolio\\InnosPortfolio.csproj",
@@ -168,8 +168,7 @@
               "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAC8AAAAAAAAAAAAAAD4AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-10T15:54:09.168Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-10T15:54:09.168Z"
             },
             {
               "$type": "Document",
