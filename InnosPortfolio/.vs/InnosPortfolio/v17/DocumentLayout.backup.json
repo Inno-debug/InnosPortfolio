@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\maste\\Documents\\personal\\GitHub\\InnosPortfolio\\InnosPortfolio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{818A619A-1E7F-496F-90DE-5AF6ED65E465}|InnosPortfolio.csproj|c:\\users\\maste\\documents\\personal\\github\\innosportfolio\\innosportfolio\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{818A619A-1E7F-496F-90DE-5AF6ED65E465}|InnosPortfolio.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{818A619A-1E7F-496F-90DE-5AF6ED65E465}|InnosPortfolio.csproj|c:\\users\\maste\\documents\\personal\\github\\innosportfolio\\innosportfolio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{818A619A-1E7F-496F-90DE-5AF6ED65E465}|InnosPortfolio.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818A619A-1E7F-496F-90DE-5AF6ED65E465}|InnosPortfolio.csproj|c:\\users\\maste\\documents\\personal\\github\\innosportfolio\\innosportfolio\\innosportfolio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{818A619A-1E7F-496F-90DE-5AF6ED65E465}|InnosPortfolio.csproj|solutionrelative:innosportfolio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{818A619A-1E7F-496F-90DE-5AF6ED65E465}|InnosPortfolio.csproj|c:\\users\\maste\\documents\\personal\\github\\innosportfolio\\innosportfolio\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -59,19 +63,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Dockerfile",
-              "DocumentMoniker": "C:\\Users\\maste\\Documents\\personal\\GitHub\\InnosPortfolio\\InnosPortfolio\\Dockerfile",
-              "RelativeDocumentMoniker": "Dockerfile",
-              "ToolTip": "C:\\Users\\maste\\Documents\\personal\\GitHub\\InnosPortfolio\\InnosPortfolio\\Dockerfile",
-              "RelativeToolTip": "Dockerfile",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-07-14T12:56:56.919Z",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maste\\Documents\\personal\\GitHub\\InnosPortfolio\\InnosPortfolio\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\maste\\Documents\\personal\\GitHub\\InnosPortfolio\\InnosPortfolio\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T13:38:26.01Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
+              "Title": "InnosPortfolio",
+              "DocumentMoniker": "C:\\Users\\maste\\Documents\\personal\\GitHub\\InnosPortfolio\\InnosPortfolio\\InnosPortfolio.csproj",
+              "RelativeDocumentMoniker": "InnosPortfolio.csproj",
+              "ToolTip": "C:\\Users\\maste\\Documents\\personal\\GitHub\\InnosPortfolio\\InnosPortfolio\\InnosPortfolio.csproj",
+              "RelativeToolTip": "InnosPortfolio.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-14T13:35:50.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Contact.cshtml",
               "DocumentMoniker": "C:\\Users\\maste\\Documents\\personal\\GitHub\\InnosPortfolio\\InnosPortfolio\\Pages\\IndexSections\\Contact.cshtml",
               "RelativeDocumentMoniker": "Pages\\IndexSections\\Contact.cshtml",
@@ -83,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Projects.cshtml",
               "DocumentMoniker": "C:\\Users\\maste\\Documents\\personal\\GitHub\\InnosPortfolio\\InnosPortfolio\\Pages\\IndexSections\\Projects.cshtml",
               "RelativeDocumentMoniker": "Pages\\IndexSections\\Projects.cshtml",
@@ -95,7 +112,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "site.js",
               "DocumentMoniker": "C:\\Users\\maste\\Documents\\personal\\GitHub\\InnosPortfolio\\InnosPortfolio\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
@@ -107,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\maste\\Documents\\personal\\GitHub\\InnosPortfolio\\InnosPortfolio\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "Pages\\Index.cshtml",
@@ -119,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "_LayoutAssets.cshtml",
               "DocumentMoniker": "C:\\Users\\maste\\Documents\\personal\\GitHub\\InnosPortfolio\\InnosPortfolio\\Pages\\Shared\\_LayoutAssets.cshtml",
               "RelativeDocumentMoniker": "Pages\\Shared\\_LayoutAssets.cshtml",
@@ -131,7 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\maste\\Documents\\personal\\GitHub\\InnosPortfolio\\InnosPortfolio\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
@@ -143,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\maste\\Documents\\personal\\GitHub\\InnosPortfolio\\InnosPortfolio\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
@@ -156,7 +173,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Title.cshtml",
               "DocumentMoniker": "C:\\Users\\maste\\Documents\\personal\\GitHub\\InnosPortfolio\\InnosPortfolio\\Pages\\IndexSections\\Title.cshtml",
               "RelativeDocumentMoniker": "Pages\\IndexSections\\Title.cshtml",
@@ -168,7 +185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Skills.cshtml",
               "DocumentMoniker": "C:\\Users\\maste\\Documents\\personal\\GitHub\\InnosPortfolio\\InnosPortfolio\\Pages\\IndexSections\\Skills.cshtml",
               "RelativeDocumentMoniker": "Pages\\IndexSections\\Skills.cshtml",
@@ -180,7 +197,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Work.cshtml",
               "DocumentMoniker": "C:\\Users\\maste\\Documents\\personal\\GitHub\\InnosPortfolio\\InnosPortfolio\\Pages\\IndexSections\\Work.cshtml",
               "RelativeDocumentMoniker": "Pages\\IndexSections\\Work.cshtml",
