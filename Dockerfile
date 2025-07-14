@@ -5,7 +5,7 @@ WORKDIR /app
 COPY . .
 
 # Go to project folder and list files (debugging)
-RUN ls -la InnosPortfolio/InnosPortfolio
+RUN ls -la InnosPortfolio
 
 # Try to publish (this is likely where it's failing)
 WORKDIR /app/InnosPortfolio
