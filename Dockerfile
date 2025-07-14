@@ -1,19 +1,21 @@
+# ---------- Build stage ----------
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /app
 
-# Copy all files
-COPY . .
+# Copy everything into the container
+COPY . ./
 
-# Go to project folder and list files (debugging)
-RUN ls -la InnosPortfolio
+# Publish the app (output will include wwwroot)
+RUN dotnet publish InnosPortfolio/InnosPortfolio.csproj -c Release -o /app/publish
 
-# Try to publish (this is likely where it's failing)
-WORKDIR /app/InnosPortfolio
-RUN dotnet publish -c Release -o /app/out
-
+# ---------- Runtime stage ----------
 FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS runtime
 WORKDIR /app
-COPY --from=build /app/InnosPortfolio/out ./
 
+# Copy the published app from build stage
+COPY --from=build /app/publish ./
+
+# Run the app
 ENTRYPOINT ["dotnet", "InnosPortfolio.dll"]
+
 
