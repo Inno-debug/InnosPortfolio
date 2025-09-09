@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InnosPortfolio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8f64b176b394212ff06696d6ab32224df4a0f35d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+225a406f763c225365bfe57d914c958c4befc922")]
 [assembly: System.Reflection.AssemblyProductAttribute("InnosPortfolio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InnosPortfolio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
