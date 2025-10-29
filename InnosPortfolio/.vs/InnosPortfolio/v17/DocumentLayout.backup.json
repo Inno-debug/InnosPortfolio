@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\maste\\Documents\\Personal\\InnosPortfolio\\InnosPortfolio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{818A619A-1E7F-496F-90DE-5AF6ED65E465}|InnosPortfolio.csproj|c:\\users\\maste\\documents\\personal\\innosportfolio\\innosportfolio\\pages\\indexsections\\title.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{818A619A-1E7F-496F-90DE-5AF6ED65E465}|InnosPortfolio.csproj|solutionrelative:pages\\indexsections\\title.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{818A619A-1E7F-496F-90DE-5AF6ED65E465}|InnosPortfolio.csproj|c:\\users\\maste\\documents\\personal\\innosportfolio\\innosportfolio\\pages\\indexsections\\work.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{818A619A-1E7F-496F-90DE-5AF6ED65E465}|InnosPortfolio.csproj|solutionrelative:pages\\indexsections\\work.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{818A619A-1E7F-496F-90DE-5AF6ED65E465}|InnosPortfolio.csproj|c:\\users\\maste\\documents\\personal\\innosportfolio\\innosportfolio\\pages\\indexsections\\skills.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{818A619A-1E7F-496F-90DE-5AF6ED65E465}|InnosPortfolio.csproj|solutionrelative:pages\\indexsections\\skills.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818A619A-1E7F-496F-90DE-5AF6ED65E465}|InnosPortfolio.csproj|c:\\users\\maste\\documents\\personal\\innosportfolio\\innosportfolio\\pages\\indexsections\\title.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{818A619A-1E7F-496F-90DE-5AF6ED65E465}|InnosPortfolio.csproj|solutionrelative:pages\\indexsections\\title.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{818A619A-1E7F-496F-90DE-5AF6ED65E465}|InnosPortfolio.csproj|c:\\users\\maste\\documents\\personal\\innosportfolio\\innosportfolio\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -42,44 +42,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Work.cshtml",
               "DocumentMoniker": "C:\\Users\\maste\\Documents\\Personal\\InnosPortfolio\\InnosPortfolio\\Pages\\IndexSections\\Work.cshtml",
               "RelativeDocumentMoniker": "Pages\\IndexSections\\Work.cshtml",
               "ToolTip": "C:\\Users\\maste\\Documents\\Personal\\InnosPortfolio\\InnosPortfolio\\Pages\\IndexSections\\Work.cshtml",
               "RelativeToolTip": "Pages\\IndexSections\\Work.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-23T17:57:02.156Z"
+              "WhenOpened": "2025-08-23T17:57:02.156Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Title.cshtml",
               "DocumentMoniker": "C:\\Users\\maste\\Documents\\Personal\\InnosPortfolio\\InnosPortfolio\\Pages\\IndexSections\\Title.cshtml",
               "RelativeDocumentMoniker": "Pages\\IndexSections\\Title.cshtml",
-              "ToolTip": "C:\\Users\\maste\\Documents\\Personal\\InnosPortfolio\\InnosPortfolio\\Pages\\IndexSections\\Title.cshtml*",
-              "RelativeToolTip": "Pages\\IndexSections\\Title.cshtml*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\maste\\Documents\\Personal\\InnosPortfolio\\InnosPortfolio\\Pages\\IndexSections\\Title.cshtml",
+              "RelativeToolTip": "Pages\\IndexSections\\Title.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-08-23T17:56:50.803Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Skills.cshtml",
               "DocumentMoniker": "C:\\Users\\maste\\Documents\\Personal\\InnosPortfolio\\InnosPortfolio\\Pages\\IndexSections\\Skills.cshtml",
               "RelativeDocumentMoniker": "Pages\\IndexSections\\Skills.cshtml",
               "ToolTip": "C:\\Users\\maste\\Documents\\Personal\\InnosPortfolio\\InnosPortfolio\\Pages\\IndexSections\\Skills.cshtml",
               "RelativeToolTip": "Pages\\IndexSections\\Skills.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-14T18:51:41.087Z"
+              "WhenOpened": "2025-07-14T18:51:41.087Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
